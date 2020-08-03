@@ -4,4 +4,4 @@ Currently, I am learning React and in the process building up my portfolio websi
 
 - 🔭 I’m currently working on a food places api
 
-- I am currently in the Republic of Singapore Air Force waiting for admission into university in 2021.
+- I am currently waiting for admission into university in 2021.
