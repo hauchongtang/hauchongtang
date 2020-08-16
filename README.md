@@ -1,2 +1,4 @@
 ## Hi there 👋
 I dabble with lots of tech by mainly with web frameworks with Javascript.
+
+[![HauChong's github stats](https://github-readme-stats.vercel.app/api?username=thchong-code)](https://github.com/anuraghazra/github-readme-stats)
