@@ -1,4 +1,4 @@
-Y1 CS Student @ NUS Computing 
+Y2 CS Student @ NUS Computing 
 
 [![HauChong's github stats](https://github-readme-stats.vercel.app/api?username=hauchongtang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
